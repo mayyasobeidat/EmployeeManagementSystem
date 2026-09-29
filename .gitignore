@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# NuGet
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+
+# Logs
+*.log
+App_Data/*.log
+
+# Local configuration with secrets
+Web.config
+
+# React
+employee-management-frontend/node_modules/
+employee-management-frontend/dist/
